@@ -21,7 +21,7 @@ printf("%d\n",z)
 }
 int sum(int x,int y)
 {
-    return x+y
+    return x+y;
 }
 int pro(int x,int y)
 {
